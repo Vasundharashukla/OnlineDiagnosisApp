@@ -1,0 +1,28 @@
+/*================*/
+/*Navbar Styles*/
+/*================*/
+.ui.inverted.segment{
+    padding: 0 !important;
+}
+
+/*================*/
+/*SidePanel Styles*/
+/*================*/
+.sidePanelButtons{
+    margin: 0.5em;
+}
+
+/*================*/
+/*Login Styles*/
+/*================*/
+.flex{
+    height: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-item{
+    width: 30%;
+    /*flex-basis: auto;*/
+    align-self: center;
+}

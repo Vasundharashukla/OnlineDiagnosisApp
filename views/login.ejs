@@ -1,0 +1,20 @@
+<% include partials/LayoutHeader %>
+<% include partials/Navbar %>
+<div class="flex">
+    <div class="flex-item">
+        <div class="ui main text ">
+            <div class="ui huge header">Login !</div>
+            <form class="ui form" action="/login" method="POST">
+                <div class="field">
+                    <input type="text" placeholder="User Name" name="username">
+                </div>
+                <div class="field">
+                    <input type="password" placeholder="Password" name="password">
+                </div>
+
+                <input class="ui violet big basic button" type="submit" value="Log In">
+            </form>
+        </div>
+    </div>
+</div>
+<% include partials/LayoutFooter %>
