@@ -20,5 +20,5 @@ This website will help patients find doctors easily. It will also create a marke
 
 ## Contributing and Styling Guidelines
 __Please Read the following points carefully!__
-- CONTRIBUTING.md will give you an idea as to how to contribute.
-- In order to know the template of Pull Request, go through the guidelines given in PULL_REQUEST_TEMPLATE.md.
+- [CONTRIBUTING.md](https://github.com/krishnan2098/OnlineDiagnosisApp/blob/master/CONTRIBUTING.md) will give you an idea as to how to contribute.
+- In order to know the template of Pull Request, go through the guidelines given in [PULL_REQUEST_TEMPLATE.md](https://github.com/krishnan2098/OnlineDiagnosisApp/blob/master/PULL_REQUEST_TEMPLATE.md)
