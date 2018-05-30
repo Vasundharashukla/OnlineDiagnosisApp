@@ -8,7 +8,7 @@ Have a short description on what has gone wrong (like a root cause analysis and 
 If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
 
 ### Bugs and New Feautures as Issues
-- Take a look at bug_report.md and feature_request.md for steps to raise an issue.
+- Take a look at [bug_report.md](https://github.com/krishnan2098/OnlineDiagnosisApp/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) and [feature_request.md](https://github.com/krishnan2098/OnlineDiagnosisApp/blob/master/.github/ISSUE_TEMPLATE/feature_request.md) for steps to raise an issue.
 
 ### Submitting changes
 In order to submit your changes, follow the steps given below:
